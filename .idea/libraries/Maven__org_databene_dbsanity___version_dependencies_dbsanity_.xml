@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.databene:dbsanity:${version.dependencies.dbsanity}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/databene/dbsanity/${version.dependencies.dbsanity}/dbsanity-${version.dependencies.dbsanity}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/databene/dbsanity/${version.dependencies.dbsanity}/dbsanity-${version.dependencies.dbsanity}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/databene/dbsanity/${version.dependencies.dbsanity}/dbsanity-${version.dependencies.dbsanity}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
